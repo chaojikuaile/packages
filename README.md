@@ -3,6 +3,12 @@
 ## Prometheus
 
 https://github.com/prometheus/node_exporter/releases/download/v1.3.1/node_exporter-1.3.1.linux-amd64.tar.gz 68f3802c2dd3980667e4ba65ea2e1fb03f4a4ba026cca375f15a0390ff850949
-https://github.com/google/cadvisor/releases/download/v0.38.8/cadvisor   d18eb77fec9afb3facfb9442935c165b2b4bc1488f41d364d750adb0c18bcd81
-https://github.com/prometheus/mysqld_exporter/releases/download/v0.13.0/mysqld_exporter-0.13.0.linux-amd64.tar.gz   626584c5d1c0cf09982302763e69db24fabe5dc736e7b694a3f8fdfee3d8d9a2
-https://github.com/coredns/coredns/releases/download/v1.8.6/coredns_1.8.6_linux_amd64.tgz   b97ce1a3ca01a0f5687dbc825ed4d8fd3ec14ed71b3abe0bc8b9bcc4cc4d337b
+https://github.com/google/cadvisor/releases/download/v0.39.3/cadvisor   f83194b0563bca7bae536ec68aeb5ead5663d7d4df2e64e660a8a9c80d447d9a
+https://github.com/prometheus/mysqld_exporter/releases/download/v0.14.0/mysqld_exporter-0.14.0.linux-amd64.tar.gz   c17402137a4e9745f593127f162c1003298910cb8aa7d05bee3384738de094ae
+https://github.com/coredns/coredns/releases/download/v1.9.1/coredns_1.9.1_linux_amd64.tgz   bc00cf83f5f96d36a8659e7a201e3a01138f3bdd9f2bfe81a34edc2833f48995
+
+
+## Redis
+
+https://download.redis.io/releases/redis-6.2.6.tar.gz
+ 
