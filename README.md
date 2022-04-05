@@ -14,4 +14,4 @@ https://download.redis.io/releases/redis-6.2.6.tar.gz
 
 ## Docker
 
-https://github.com/docker/compose/releases/download/v2.4.0/docker-compose-linux-x86_64 83527297959403d20a4fd4f00d3db6d9bbbc0cc5704787ec4396cd706a6c8bb4
+https://github.com/docker/compose/releases/download/v2.4.1/docker-compose-linux-x86_64 6dc9096eb6aed220e9b876b3ae6edbffa8bb3beaa5936d11495acd90ea6246f1
