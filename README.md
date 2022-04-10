@@ -15,3 +15,4 @@
 | mysql-community-devel | md5:b679b0354e233a4837d2c9b90c841d8f  | [8.0.27](https://downloads.mysql.com/archives/get/p/23/file/mysql-community-devel-8.0.27-1.el8.x86_64.rpm) |
 | mysql-community-common | md5:6b58bf2c0dc1cdd7ca54e04d6522d502  | [8.0.27](https://downloads.mysql.com/archives/get/p/23/file/mysql-community-common-8.0.27-1.el8.x86_64.rpm) |
 | mysql-community-libs | md5:d42f6395b6ce07890aef48f66e6356e3  | [8.0.27](https://downloads.mysql.com/archives/get/p/23/file/mysql-community-libs-8.0.27-1.el8.x86_64.rpm) |
+| zookeeper | sha256:0b26adea71631989c3e2c08a30984edc5663aa912823b8d02e43c6a7d4e8128b  | [3.8.0](https://dlcdn.apache.org/zookeeper/zookeeper-3.8.0/apache-zookeeper-3.8.0-bin.tar.gz) |

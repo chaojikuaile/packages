@@ -1,1 +1,2 @@
-* binary
+* binary=auto
+*.md txt eof=lf
