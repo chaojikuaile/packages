@@ -16,3 +16,5 @@
 | mysql-community-common | md5:6b58bf2c0dc1cdd7ca54e04d6522d502  | [8.0.27](https://downloads.mysql.com/archives/get/p/23/file/mysql-community-common-8.0.27-1.el8.x86_64.rpm) |
 | mysql-community-libs | md5:d42f6395b6ce07890aef48f66e6356e3  | [8.0.27](https://downloads.mysql.com/archives/get/p/23/file/mysql-community-libs-8.0.27-1.el8.x86_64.rpm) |
 | zookeeper | sha256:0b26adea71631989c3e2c08a30984edc5663aa912823b8d02e43c6a7d4e8128b  | [3.8.0](https://dlcdn.apache.org/zookeeper/zookeeper-3.8.0/apache-zookeeper-3.8.0-bin.tar.gz) |
+| percona-toolkit | sha256:ca3b1b63e62aefe4a2e9e79fcd14a53ebbe01ccdbec4a56fa2ecaab64d2282e1  | [3.3.1](https://downloads.percona.com/downloads/percona-toolkit/3.3.1/binary/redhat/8/x86_64/percona-toolkit-3.3.1-1.el8.x86_64.rpm) |
+| percona-xtrabackup | sha256:bf6ddc1738cdfdcf781f24049d982a77570509b18c6d2000943e9e05ab4be1ea  | [8.0.27-19](https://downloads.percona.com/downloads/Percona-XtraBackup-LATEST/Percona-XtraBackup-8.0.27-19/binary/redhat/8/x86_64/percona-xtrabackup-80-8.0.27-19.1.el8.x86_64.rpm) |
