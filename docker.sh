@@ -18,6 +18,7 @@ IMAGES[14]="docker/compose:1.29.2"
 IMAGES[15]="quay.io/vouch/vouch-proxy:alpine-0.36.0"
 IMAGES[16]="redis:6.2.6"
 IMAGES[17]="percona/pmm-server:2.26.0"
+IMAGES[18]="mysql:8.0.28"
 
 readonly IMAGES
 
