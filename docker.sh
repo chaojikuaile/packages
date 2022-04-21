@@ -19,6 +19,7 @@ IMAGES[15]="quay.io/vouch/vouch-proxy:alpine-0.36.0"
 IMAGES[16]="redis:6.2.6"
 IMAGES[17]="percona/pmm-server:2.27.0"
 IMAGES[18]="mysql:8.0.28"
+IMAGES[19]="owasp/modsecurity-crs:3.3.2-nginx"
 
 readonly IMAGES
 
