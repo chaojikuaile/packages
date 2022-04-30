@@ -20,6 +20,7 @@ IMAGES[16]="redis:6.2.6"
 IMAGES[17]="percona/pmm-server:2.27.0"
 IMAGES[18]="mysql:8.0.28"
 IMAGES[19]="owasp/modsecurity-crs:3.3.2-nginx"
+IMAGES[20]="quay.io/keycloak/keycloak:18.0.0"
 
 readonly IMAGES
 
