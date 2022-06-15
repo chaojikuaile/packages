@@ -1,8 +1,8 @@
 #!/bin/bash
 
 IMAGES[0]="licunchang/devops:latest"
-IMAGES[1]="nginx:1.20.2"
-IMAGES[2]="nginx:1.20.2-alpine"
+IMAGES[1]="nginx:1.22.0"
+IMAGES[2]="nginx:1.22.0-alpine"
 IMAGES[3]="quay.io/martinhelmich/prometheus-nginxlog-exporter:v1"
 IMAGES[4]="nginx/nginx-prometheus-exporter:0.10.0"
 IMAGES[5]="grafana/grafana:8.4.6"
